@@ -3,7 +3,11 @@ Repository of questionnaires and measurement scales for public health research d
 
 ## List of questionnaires and measurement scales available ##
 
-* Public Health Mandates Scale (PHMS) (Abraham, Case, Dowd, Peck, Williams, 2021).
+* Public Health Mandates Scale (PHMS) `(Abraham, Case, Dowd, Peck, Williams, 2021).`
+* Food and Health Perceptions Scale (FHPS) `(Fan, Harris, Laukin, Waugh, 2021).`
+* Resident Community Wellbeing Questionnaire (RCWQ) `(Israel, Reardon, Vermette, Zhen, 2021).`
+* Knowledge and Perceptions about STI Questionnaire (KP-STI) `(Bailey, McDonald, Vargas, 2021).` 
+* Healthy Self-concept Sexuallity Scale (HealthSex-S) `(Bowers, Gorman, Magee, Rue, 2021).`
 
 ## Questions? contact us ##
 
